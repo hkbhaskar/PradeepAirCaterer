@@ -34,7 +34,14 @@
 	16. FOOTER.
 		
 */ 
+.video_section{ position:relative;}
+.video_section img{width:100%;}
 
+.vid{ height:500px; width:100%;}
+.vid {
+    height: 500px!important;
+}
+.vid{ height:inherit;}
 /* =====================================
    	1. RESET.
    ===================================== */
